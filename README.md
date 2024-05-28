@@ -1,4 +1,7 @@
 "# first_git" 
 
 to test remote repository
-�ѱ� �׽�Ʈ. 
+ÇÑ±Û Å×½ºÆ®. 
+
+# first list
+# second list
